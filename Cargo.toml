@@ -1,5 +1,5 @@
 [package]
-name = "compute-starter-kit-rust-default"
+name = "fiddle-5bf19023"
 version = "0.1.0"
 authors = []
 edition = "2018"
@@ -12,3 +12,4 @@ debug = 1
 
 [dependencies]
 fastly = "^0.8.0"
+serde_json = "1.0"
